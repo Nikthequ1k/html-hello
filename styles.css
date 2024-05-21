@@ -1,5 +1,5 @@
-.body {
-    background: black;
+body {
+    background-color: black;
 }
 .post{
     text-align: center;
@@ -29,4 +29,7 @@ div {
 header {
     background: black;
     padding: 10px;
+}
+img {
+    width: 100%;
 }
